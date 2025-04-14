@@ -1,5 +1,15 @@
-# Python Starter
+## Deep Learning: Teoria da Informação + Computação Natural
 
-Quickly get started with [Python](https://www.python.org/) using this starter! 
+algoritmos iterativos, várias épocas
 
-- If you want to upgrade Python, you can change the image in the [Dockerfile](./.devcontainer/Dockerfile).
+### The Classical Perceptron (after Rosenblatt 1958)
+
+- Neurônio Singular
+- 1986 back propagation algorithm
+  A função de ativação garante uma camada de não-linearidade do modelo, a sua complexidade.
+
+O conhecimento é armazenado como uma interconexão entre os neurônios, não em cada um separadamente.
+
+### Oficina
+
+Treinamento de uma IA para identificar qual o dígito (0-9) em uma imagem (matriz 28x28=784).
